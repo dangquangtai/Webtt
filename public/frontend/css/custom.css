@@ -1,0 +1,11 @@
+a.post {
+    text-decoration: none;
+}
+
+a.post :hover {
+    color: #6b747b;
+}
+
+.ex-basic-1 img {
+    max-width: 100%;
+}
